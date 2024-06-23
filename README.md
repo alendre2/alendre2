@@ -6,7 +6,7 @@
     <title>Bio de Alendre Maciel Barros de Melo</title>
 </head>
 <body>
-    <h1>Olá! Eu sou Alendre Maciel Barros de Melo, futuro desenvolvedor 👋</h1>
+    <h1>Olá! Eu sou Alendre Maciel Barros de Melo, desenvolvedor Java</h1>
     <p>🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas na Alpha.</p>
     <p>🌱 Apaixonado por Programação, com foco em Java e SQL.</p>
     <p>👨‍💻 Conecte-se comigo no <a href="https://linkedin.com/in/alendre-maciel-518b18201" target="_blank">LinkedIn</a></p>
